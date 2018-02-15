@@ -1,2 +1,5 @@
-# weblab2018
-Web repo for class assignment
+#WebLab Spring 2018
+
+Web repo for class assignments.
+
+Eboni Jackson
