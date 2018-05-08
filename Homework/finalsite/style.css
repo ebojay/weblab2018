@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:100|Maitree|Quicksand');
+
+body {
+  background-color: #daf4eb;
+  font-family: 'Quicksand',sans-serif;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 960px;
+  background-color: white;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
+  font-size: 80px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
+
+.left-col {
+    width: 580px;
+    float: right;
+    background-color: white;
+    padding: 10px;
+    height: auto;
+}
+
+.right-col {
+  width: 340px;
+  float: left;
+  background-color: white;
+  padding: 10px;
+}
+
+#work p {
+  line-height: 1px;
+}
+
+
+#objective {
+  text-align: center;
+  padding: 10px;
+}
+#objective h2 {
+  font-family: 'Lato', sans-serif;
+  font-size: 200%;
+  font-weight: bold;
+  color: #daf4eb;
+}
+
+#work {
+  padding-bottom: 10px;
+}
+
+#info {
+  padding-bottom: 30px;
+}
+h2 {
+  font-family: 'Lato', sans-serif;
+  color: grey;
+}
+
+a img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  max-width:30%;
+  max-height:30%;
+  position: relative;
+}
+
+a img:hover {
+  filter: opacity(30%);
+
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+}
+
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+    display: inline-block;
+    padding: 8px;
+    background-color: white;
+}
+
+nav li:hover {
+  background-color: white;
+  filter: opacity(30%);
+  border-style: hidden;
+}
+
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+li a:active {
+  color: white;
+  text-decoration: none;
+}
+
+main img {
+  width: 50%;
+  height: 50%;
+}
+
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 10px;
+}
+
+.aboutme {
+  border-radius: 50%;
+  height: : 30%;
+  width: 30%;
+  padding-left: 20px;
+}
+
+.bio {
+  text-align: center;
+  float: right;
+  width: 500px;
+  padding-right: 20px;
+}
